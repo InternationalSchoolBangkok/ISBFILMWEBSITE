@@ -2,6 +2,7 @@
 <?php include "nav.php"; ?>
 <div class="center">
     <!--<img src="river.JPG" style="width:100%; height:100%">-->
+    <div class="centertitle">ISB FILM CLUB</div>
     
 </div>
 <div class="bottom" id="about">
@@ -10,6 +11,17 @@
     
 </div>
 <style>
+    .centertitle{
+        text-align: center;
+        position: absolute;
+        text-align: center;
+        color:black;
+        top:30vh;
+        right:0;
+        left:0;
+        font-size:7vh;
+
+    }
     .subhead{
         text-align: center;
         padding-top: 3vh;
